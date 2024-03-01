@@ -6,4 +6,7 @@
   (lib (name "SI7850DP")(type "KiCad")(uri "${KIPRJMOD}/SDII Lib/SI7850DP.kicad_sym")(options "")(descr ""))
   (lib (name "ISP817CX")(type "KiCad")(uri "${KIPRJMOD}/SDII Lib/ISP817CX.kicad_sym")(options "")(descr ""))
   (lib (name "LTC1298")(type "KiCad")(uri "${KIPRJMOD}/SDII Lib/LTC1298IS8_PBF.kicad_sym")(options "")(descr ""))
+  (lib (name "LTC3894")(type "KiCad")(uri "${KIPRJMOD}/SDII Lib/LTC3894.kicad_sym")(options "")(descr ""))
+  (lib (name "FDS4435A")(type "KiCad")(uri "${KIPRJMOD}/SDII Lib/FDS4435A.kicad_sym")(options "")(descr ""))
+  (lib (name "PCI")(type "KiCad")(uri "${KIPRJMOD}/SDII Lib/PCIE-098-02-X-D-TH.kicad_sym")(options "")(descr ""))
 )
