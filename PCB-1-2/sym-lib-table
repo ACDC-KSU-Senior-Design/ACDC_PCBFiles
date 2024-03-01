@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "LTC1451 (DAC)")(type "KiCad")(uri "C:/Users/devin/Documents/ACDC_PCBFiles/SDII Lib/LTC1451IS8#PBF.kicad_sym")(options "")(descr ""))
+  (lib (name "LTC1298 (ADC)")(type "KiCad")(uri "C:/Users/devin/Documents/ACDC_PCBFiles/SDII Lib/LTC1298IS8_PBF.kicad_sym")(options "")(descr ""))
+  (lib (name "HI_3110PSIF (ARINC 825)")(type "KiCad")(uri "C:/Users/devin/Documents/ACDC_PCBFiles/SDII Lib/HI_3110PSIF.kicad_sym")(options "")(descr ""))
+  (lib (name "FT231XS-R (UART 2 USB)")(type "KiCad")(uri "C:/Users/devin/Documents/ACDC_PCBFiles/SDII Lib/FT231XS_R.kicad_sym")(options "")(descr ""))
+)
