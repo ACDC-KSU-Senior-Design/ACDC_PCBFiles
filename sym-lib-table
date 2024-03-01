@@ -1,0 +1,9 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ADP7104")(type "KiCad")(uri "${KIPRJMOD}/SDII Lib/ADP7104.kicad_sym")(options "")(descr ""))
+  (lib (name "LTC3810IG_PBF")(type "KiCad")(uri "${KIPRJMOD}/SDII Lib/LTC3810IG_PBF.kicad_sym")(options "")(descr ""))
+  (lib (name "RB168MM100")(type "KiCad")(uri "${KIPRJMOD}/SDII Lib/RB168MM100.kicad_sym")(options "")(descr ""))
+  (lib (name "SI7850DP")(type "KiCad")(uri "${KIPRJMOD}/SDII Lib/SI7850DP.kicad_sym")(options "")(descr ""))
+  (lib (name "ISP817CX")(type "KiCad")(uri "${KIPRJMOD}/SDII Lib/ISP817CX.kicad_sym")(options "")(descr ""))
+  (lib (name "LTC1298")(type "KiCad")(uri "${KIPRJMOD}/SDII Lib/LTC1298IS8_PBF.kicad_sym")(options "")(descr ""))
+)
