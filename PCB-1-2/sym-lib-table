@@ -5,4 +5,8 @@
   (lib (name "FT231XS-R (UART 2 USB)")(type "KiCad")(uri "C:/Users/devin/Documents/ACDC_PCBFiles/SDII Lib/FT231XS_R.kicad_sym")(options "")(descr ""))
   (lib (name "LTC1298 (ADC)")(type "KiCad")(uri "C:/Users/devin/Documents/ACDC_PCBFiles/SDII Lib/LTC1298IS8_PBF.kicad_sym")(options "")(descr ""))
   (lib (name "STM32F103RBT6")(type "KiCad")(uri "C:/Users/devin/Documents/ACDC_PCBFiles/SDII Lib/STM32F103RBT6.kicad_sym")(options "")(descr ""))
+  (lib (name "STWD100YNXWY3F (Watchdog)")(type "KiCad")(uri "C:/Users/devin/Documents/ACDC_PCBFiles/SDII Lib/STWD100YNXWY3F.kicad_sym")(options "")(descr ""))
+  (lib (name "ADP7104 (LDO)")(type "KiCad")(uri "C:/Users/devin/Documents/ACDC_PCBFiles/SDII Lib/SI7850DP.kicad_sym")(options "")(descr ""))
+  (lib (name "ABM3B-8MHz (Crystal)")(type "KiCad")(uri "C:/Users/devin/Documents/ACDC_PCBFiles/SDII Lib/ABM3B-8.000MHZ-10-1-U-T.kicad_sym")(options "")(descr ""))
+  (lib (name "STDC14 (STM32 Debug Conn)")(type "KiCad")(uri "C:/Users/devin/Documents/ACDC_PCBFiles/SDII Lib/FTSH-107-01-F-DV-K-P-TR.kicad_sym")(options "")(descr ""))
 )
