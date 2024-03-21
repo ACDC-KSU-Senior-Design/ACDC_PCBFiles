@@ -7284,6 +7284,12 @@
 		(uuid "1fd618be-1cfa-4ad6-be27-58af0bb81335")
 	)
 	(junction
+		(at 100.33 107.95)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "20b2f775-ac98-441a-b5c9-ee896134b6d1")
+	)
+	(junction
 		(at 53.34 173.99)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7498,6 +7504,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "be992b9f-efce-472a-a96c-cfd3cdde198d")
+	)
+	(junction
+		(at 160.02 116.84)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c4485e06-71b6-4c5a-a4ad-a6b07b054c4d")
 	)
 	(junction
 		(at 408.94 74.93)
@@ -7957,6 +7969,16 @@
 	)
 	(wire
 		(pts
+			(xy 147.32 107.95) (xy 147.32 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "38f299ba-3c43-4b91-a704-45d4833a2955")
+	)
+	(wire
+		(pts
 			(xy 160.02 116.84) (xy 161.29 116.84)
 		)
 		(stroke
@@ -7984,6 +8006,16 @@
 			(type default)
 		)
 		(uuid "43dc804f-d228-44e8-a247-dc2e15cb72b6")
+	)
+	(wire
+		(pts
+			(xy 147.32 116.84) (xy 160.02 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4697021f-1e82-414f-a1a2-975b889b34d9")
 	)
 	(wire
 		(pts
@@ -8534,6 +8566,16 @@
 			(type default)
 		)
 		(uuid "8ded8958-e6ea-4c1a-893e-d37d404c95cb")
+	)
+	(wire
+		(pts
+			(xy 100.33 107.95) (xy 147.32 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8ee429d0-f3ec-424d-903c-9e77e9bdd8a5")
 	)
 	(wire
 		(pts
@@ -13394,7 +13436,7 @@
 				)
 			)
 		)
-		(property "Value" "ADP7104ACPZ-R7 (5v)"
+		(property "Value" "ADP7104ACPZ-R7"
 			(at 75.184 98.806 0)
 			(effects
 				(font
@@ -14592,7 +14634,7 @@
 				)
 			)
 		)
-		(property "Value" "ADP7104ACPZ-R7 (v3.3)"
+		(property "Value" "ADP7104ACPZ-R7"
 			(at 199.644 100.076 0)
 			(effects
 				(font
