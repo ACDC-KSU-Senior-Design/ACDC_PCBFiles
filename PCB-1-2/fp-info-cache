@@ -1,4 +1,4 @@
-23058252577797497
+23066807813677822
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -87068,10 +87068,17 @@ rotary encoder
 SDII LIB
 CP_8_5_ADI
 
-ADP7104ACPZ-3.0-R7 
+ADP7104ACPZ-R7 
 0
 9
 9
+SDII LIB
+DGK8_TEX
+
+INA827AIDGKR 
+0
+8
+8
 SDII LIB
 FT231XS-R_FTD
 
@@ -87101,6 +87108,20 @@ QFP50P1200X1200X160-64N
 64
 64
 SDII LIB
+QFP80P1390X1390X150-44N
+
+
+0
+44
+44
+SDII LIB
+SAMTEC_FTSH-107-01-F-DV-K-P-TR
+
+
+0
+14
+14
+SDII LIB
 SO-8_S_LIT
 
 LTC1451IS8-PBF 
@@ -87129,6 +87150,13 @@ HI-3110PSIF
 18
 18
 SDII LIB
+SOT-23-6_TEX
+
+REF3425MDBVTEP 
+0
+6
+6
+SDII LIB
 SOT23-5_STM
 
 STWD100YNXWY3F 
@@ -87142,6 +87170,13 @@ SSOP-28_G
 0
 28
 28
+SDII LIB
+XTAL_ABM3B-8.000MHZ-10-1-U-T
+
+
+0
+4
+4
 Sensor
 ASAIR_AM2302_P2.54mm_Lead2.75mm_TabDown
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/AM2302.pdf
