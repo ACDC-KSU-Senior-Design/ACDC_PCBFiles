@@ -1,4 +1,4 @@
-23066807813677822
+23071944602475222
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -87087,6 +87087,13 @@ FT231XS-R
 20
 20
 SDII LIB
+GCT_USB4105-GF-A
+
+
+0
+16
+16
+SDII LIB
 ISP817SM_ISO
 
 ISP817CXSM 
@@ -87125,6 +87132,13 @@ SDII LIB
 SO-8_S_LIT
 
 LTC1451IS8-PBF 
+0
+8
+8
+SDII LIB
+SO-G8_1_MXM
+
+MAX764ESA 
 0
 8
 8
@@ -87172,6 +87186,13 @@ SSOP-28_G
 28
 SDII LIB
 XTAL_ABM3B-8.000MHZ-10-1-U-T
+
+
+0
+4
+4
+SDII LIB
+XTAL_ABM8-24.000MHz-10-B1U-T
 
 
 0
