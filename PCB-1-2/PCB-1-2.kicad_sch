@@ -855,24 +855,26 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "J"
-				(at -8.89 43.18 0)
+			(property "Reference" "J1"
+				(at 64.4241 -80.01 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify right)
 				)
 			)
 			(property "Value" "Bus_PCI_Express_x8"
-				(at 12.7 43.18 0)
+				(at -5.334 -44.45 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify right)
 				)
 			)
 			(property "Footprint" "Connector_PCBEdge:BUS_PCIexpress_x8"
-				(at 0 5.08 0)
+				(at 70.612 -18.288 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -881,7 +883,7 @@
 				)
 			)
 			(property "Datasheet" "http://www.ritrontek.com/uploadfile/2016/1026/20161026105231124.pdf#page=63"
-				(at -1.27 -24.13 0)
+				(at 73.914 18.796 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -890,7 +892,7 @@
 				)
 			)
 			(property "Description" "PCI Express bus connector x8"
-				(at 0 0 0)
+				(at 64.516 -22.606 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -929,9 +931,29 @@
 					)
 				)
 			)
+			(symbol "Bus_PCI_Express_x8_1_0"
+				(pin passive line
+					(at -22.86 66.04 270)
+					(length 3.81)
+					(name "+12V"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "B2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
 			(symbol "Bus_PCI_Express_x8_1_1"
 				(pin passive line
-					(at -15.24 15.24 0)
+					(at -95.25 30.48 0)
 					(length 3.81)
 					(name "~{PRSNT1}"
 						(effects
@@ -949,8 +971,8 @@
 					)
 				)
 				(pin passive line
-					(at 2.54 45.72 270)
-					(length 3.81) hide
+					(at 13.97 69.85 270)
+					(length 3.81)
 					(name "+3.3V"
 						(effects
 							(font
@@ -967,7 +989,7 @@
 					)
 				)
 				(pin input line
-					(at 15.24 20.32 180)
+					(at 99.06 -12.7 180)
 					(length 3.81)
 					(name "~{PERST}"
 						(effects
@@ -985,8 +1007,8 @@
 					)
 				)
 				(pin passive line
-					(at 0 -45.72 90)
-					(length 3.81) hide
+					(at 15.24 -46.99 90)
+					(length 3.81)
 					(name "GND"
 						(effects
 							(font
@@ -1003,7 +1025,7 @@
 					)
 				)
 				(pin input line
-					(at -15.24 22.86 0)
+					(at -95.25 38.1 0)
 					(length 3.81)
 					(name "REFCLK+"
 						(effects
@@ -1021,7 +1043,7 @@
 					)
 				)
 				(pin input line
-					(at -15.24 20.32 0)
+					(at -95.25 35.56 0)
 					(length 3.81)
 					(name "REFCLK-"
 						(effects
@@ -1039,8 +1061,8 @@
 					)
 				)
 				(pin passive line
-					(at 0 -45.72 90)
-					(length 3.81) hide
+					(at 72.39 -78.74 90)
+					(length 3.81)
 					(name "GND"
 						(effects
 							(font
@@ -1057,7 +1079,7 @@
 					)
 				)
 				(pin output line
-					(at 15.24 0 180)
+					(at 99.06 -33.02 0)
 					(length 3.81)
 					(name "PERp0"
 						(effects
@@ -1075,7 +1097,7 @@
 					)
 				)
 				(pin output line
-					(at 15.24 -2.54 180)
+					(at 99.06 -35.56 0)
 					(length 3.81)
 					(name "PERn0"
 						(effects
@@ -1093,8 +1115,8 @@
 					)
 				)
 				(pin passive line
-					(at 0 -45.72 90)
-					(length 3.81) hide
+					(at 68.58 -78.74 90)
+					(length 3.81)
 					(name "GND"
 						(effects
 							(font
@@ -1111,7 +1133,7 @@
 					)
 				)
 				(pin passive line
-					(at 15.24 30.48 180)
+					(at 99.06 -2.54 180)
 					(length 3.81)
 					(name "RSVD"
 						(effects
@@ -1129,8 +1151,8 @@
 					)
 				)
 				(pin passive line
-					(at -2.54 45.72 270)
-					(length 3.81) hide
+					(at -15.24 66.04 270)
+					(length 3.81)
 					(name "+12V"
 						(effects
 							(font
@@ -1147,8 +1169,8 @@
 					)
 				)
 				(pin passive line
-					(at 0 -45.72 90)
-					(length 3.81) hide
+					(at 11.43 -52.07 90)
+					(length 3.81)
 					(name "GND"
 						(effects
 							(font
@@ -1165,7 +1187,7 @@
 					)
 				)
 				(pin output line
-					(at 15.24 -5.08 180)
+					(at 99.06 -38.1 0)
 					(length 3.81)
 					(name "PERp1"
 						(effects
@@ -1183,7 +1205,7 @@
 					)
 				)
 				(pin output line
-					(at 15.24 -7.62 180)
+					(at 99.06 -40.64 0)
 					(length 3.81)
 					(name "PERn1"
 						(effects
@@ -1201,8 +1223,8 @@
 					)
 				)
 				(pin passive line
-					(at 0 -45.72 90)
-					(length 3.81) hide
+					(at 8.89 -59.69 90)
+					(length 3.81)
 					(name "GND"
 						(effects
 							(font
@@ -1219,8 +1241,8 @@
 					)
 				)
 				(pin passive line
-					(at 0 -45.72 90)
-					(length 3.81) hide
+					(at 5.08 -60.96 90)
+					(length 3.81)
 					(name "GND"
 						(effects
 							(font
@@ -1237,7 +1259,7 @@
 					)
 				)
 				(pin output line
-					(at 15.24 -10.16 180)
+					(at 99.06 -43.18 0)
 					(length 3.81)
 					(name "PERp2"
 						(effects
@@ -1255,7 +1277,7 @@
 					)
 				)
 				(pin output line
-					(at 15.24 -12.7 180)
+					(at 99.06 -45.72 0)
 					(length 3.81)
 					(name "PERn2"
 						(effects
@@ -1273,8 +1295,8 @@
 					)
 				)
 				(pin passive line
-					(at 0 -45.72 90)
-					(length 3.81) hide
+					(at 19.05 -59.69 90)
+					(length 3.81)
 					(name "GND"
 						(effects
 							(font
@@ -1291,8 +1313,8 @@
 					)
 				)
 				(pin passive line
-					(at 0 -45.72 90)
-					(length 3.81) hide
+					(at 24.13 -54.61 90)
+					(length 3.81)
 					(name "GND"
 						(effects
 							(font
@@ -1309,7 +1331,7 @@
 					)
 				)
 				(pin output line
-					(at 15.24 -15.24 180)
+					(at 99.06 -48.26 0)
 					(length 3.81)
 					(name "PERp3"
 						(effects
@@ -1327,8 +1349,8 @@
 					)
 				)
 				(pin passive line
-					(at -2.54 45.72 270)
-					(length 3.81) hide
+					(at -19.05 66.04 270)
+					(length 3.81)
 					(name "+12V"
 						(effects
 							(font
@@ -1345,7 +1367,7 @@
 					)
 				)
 				(pin output line
-					(at 15.24 -17.78 180)
+					(at 99.06 -50.8 0)
 					(length 3.81)
 					(name "PERn3"
 						(effects
@@ -1363,8 +1385,8 @@
 					)
 				)
 				(pin passive line
-					(at 0 -45.72 90)
-					(length 3.81) hide
+					(at 30.48 -52.07 90)
+					(length 3.81)
 					(name "GND"
 						(effects
 							(font
@@ -1381,7 +1403,7 @@
 					)
 				)
 				(pin passive line
-					(at 15.24 33.02 180)
+					(at 99.06 0 180)
 					(length 3.81)
 					(name "RSVD"
 						(effects
@@ -1399,7 +1421,7 @@
 					)
 				)
 				(pin passive line
-					(at 15.24 38.1 180)
+					(at 99.06 5.08 180)
 					(length 3.81)
 					(name "RSVD"
 						(effects
@@ -1417,8 +1439,8 @@
 					)
 				)
 				(pin passive line
-					(at 0 -45.72 90)
-					(length 3.81) hide
+					(at 35.56 -55.88 90)
+					(length 3.81)
 					(name "GND"
 						(effects
 							(font
@@ -1435,7 +1457,7 @@
 					)
 				)
 				(pin output line
-					(at 15.24 -20.32 180)
+					(at 99.06 -53.34 0)
 					(length 3.81)
 					(name "PERp4"
 						(effects
@@ -1453,7 +1475,7 @@
 					)
 				)
 				(pin output line
-					(at 15.24 -22.86 180)
+					(at 99.06 -55.88 0)
 					(length 3.81)
 					(name "PERn4"
 						(effects
@@ -1471,8 +1493,8 @@
 					)
 				)
 				(pin passive line
-					(at 0 -45.72 90)
-					(length 3.81) hide
+					(at 27.94 -64.77 90)
+					(length 3.81)
 					(name "GND"
 						(effects
 							(font
@@ -1489,8 +1511,8 @@
 					)
 				)
 				(pin passive line
-					(at 0 -45.72 90)
-					(length 3.81) hide
+					(at 39.37 -66.04 90)
+					(length 3.81)
 					(name "GND"
 						(effects
 							(font
@@ -1507,7 +1529,7 @@
 					)
 				)
 				(pin output line
-					(at 15.24 -25.4 180)
+					(at 99.06 -58.42 0)
 					(length 3.81)
 					(name "PERp5"
 						(effects
@@ -1525,8 +1547,8 @@
 					)
 				)
 				(pin passive line
-					(at 0 -45.72 90)
-					(length 3.81) hide
+					(at 99.06 -16.51 0)
+					(length 3.81)
 					(name "GND"
 						(effects
 							(font
@@ -1543,7 +1565,7 @@
 					)
 				)
 				(pin output line
-					(at 15.24 -27.94 180)
+					(at 99.06 -60.96 0)
 					(length 3.81)
 					(name "PERn5"
 						(effects
@@ -1561,8 +1583,8 @@
 					)
 				)
 				(pin passive line
-					(at 0 -45.72 90)
-					(length 3.81) hide
+					(at 99.06 -63.5 0)
+					(length 3.81)
 					(name "GND"
 						(effects
 							(font
@@ -1579,8 +1601,8 @@
 					)
 				)
 				(pin passive line
-					(at 0 -45.72 90)
-					(length 3.81) hide
+					(at 99.06 -66.04 0)
+					(length 3.81)
 					(name "GND"
 						(effects
 							(font
@@ -1597,7 +1619,7 @@
 					)
 				)
 				(pin output line
-					(at 15.24 -30.48 180)
+					(at 99.06 -68.58 0)
 					(length 3.81)
 					(name "PERp6"
 						(effects
@@ -1615,7 +1637,7 @@
 					)
 				)
 				(pin output line
-					(at 15.24 -33.02 180)
+					(at 99.06 -71.12 0)
 					(length 3.81)
 					(name "PERn6"
 						(effects
@@ -1633,8 +1655,8 @@
 					)
 				)
 				(pin passive line
-					(at 0 -45.72 90)
-					(length 3.81) hide
+					(at 99.06 -73.66 0)
+					(length 3.81)
 					(name "GND"
 						(effects
 							(font
@@ -1651,8 +1673,8 @@
 					)
 				)
 				(pin passive line
-					(at 0 -45.72 90)
-					(length 3.81) hide
+					(at 99.06 -76.2 0)
+					(length 3.81)
 					(name "GND"
 						(effects
 							(font
@@ -1669,7 +1691,7 @@
 					)
 				)
 				(pin output line
-					(at 15.24 -35.56 180)
+					(at 99.06 -78.74 0)
 					(length 3.81)
 					(name "PERp7"
 						(effects
@@ -1687,7 +1709,7 @@
 					)
 				)
 				(pin output line
-					(at 15.24 -38.1 180)
+					(at 99.06 -81.28 0)
 					(length 3.81)
 					(name "PERn7"
 						(effects
@@ -1705,8 +1727,8 @@
 					)
 				)
 				(pin passive line
-					(at 0 -45.72 90)
-					(length 3.81) hide
+					(at -17.78 -62.23 90)
+					(length 3.81)
 					(name "GND"
 						(effects
 							(font
@@ -1723,7 +1745,7 @@
 					)
 				)
 				(pin input line
-					(at 15.24 12.7 180)
+					(at 99.06 -20.32 0)
 					(length 3.81)
 					(name "JTAG2"
 						(effects
@@ -1741,7 +1763,7 @@
 					)
 				)
 				(pin input line
-					(at 15.24 10.16 180)
+					(at 99.06 -22.86 0)
 					(length 3.81)
 					(name "JTAG3"
 						(effects
@@ -1759,7 +1781,7 @@
 					)
 				)
 				(pin output line
-					(at 15.24 7.62 180)
+					(at 99.06 -25.4 0)
 					(length 3.81)
 					(name "JTAG4"
 						(effects
@@ -1777,7 +1799,7 @@
 					)
 				)
 				(pin input line
-					(at 15.24 5.08 180)
+					(at 99.06 -27.94 0)
 					(length 3.81)
 					(name "JTAG5"
 						(effects
@@ -1795,8 +1817,8 @@
 					)
 				)
 				(pin passive line
-					(at 2.54 45.72 270)
-					(length 3.81) hide
+					(at 6.35 69.85 270)
+					(length 3.81)
 					(name "+3.3V"
 						(effects
 							(font
@@ -1813,7 +1835,7 @@
 					)
 				)
 				(pin power_in line
-					(at -2.54 45.72 270)
+					(at -2.54 62.23 270)
 					(length 3.81)
 					(name "+12V"
 						(effects
@@ -1831,7 +1853,7 @@
 					)
 				)
 				(pin power_in line
-					(at 0 45.72 270)
+					(at 0 62.23 270)
 					(length 3.81)
 					(name "3.3Vaux"
 						(effects
@@ -1849,7 +1871,7 @@
 					)
 				)
 				(pin open_collector line
-					(at 15.24 22.86 180)
+					(at 129.54 -8.89 180)
 					(length 3.81)
 					(name "~{WAKE}"
 						(effects
@@ -1867,7 +1889,7 @@
 					)
 				)
 				(pin passive line
-					(at 15.24 27.94 180)
+					(at 128.27 -3.81 180)
 					(length 3.81)
 					(name "RSVD"
 						(effects
@@ -1885,8 +1907,8 @@
 					)
 				)
 				(pin passive line
-					(at 0 -45.72 90)
-					(length 3.81) hide
+					(at -20.32 -62.23 90)
+					(length 3.81)
 					(name "GND"
 						(effects
 							(font
@@ -1903,7 +1925,7 @@
 					)
 				)
 				(pin input line
-					(at -15.24 0 0)
+					(at -95.25 15.24 0)
 					(length 3.81)
 					(name "PETp0"
 						(effects
@@ -1921,7 +1943,7 @@
 					)
 				)
 				(pin input line
-					(at -15.24 -2.54 0)
+					(at -95.25 12.7 0)
 					(length 3.81)
 					(name "PETn0"
 						(effects
@@ -1939,8 +1961,8 @@
 					)
 				)
 				(pin passive line
-					(at 0 -45.72 90)
-					(length 3.81) hide
+					(at -24.13 -62.23 90)
+					(length 3.81)
 					(name "GND"
 						(effects
 							(font
@@ -1957,7 +1979,7 @@
 					)
 				)
 				(pin passive line
-					(at -15.24 12.7 0)
+					(at -95.25 27.94 0)
 					(length 3.81)
 					(name "~{PRSNT2}"
 						(effects
@@ -1975,8 +1997,8 @@
 					)
 				)
 				(pin passive line
-					(at 0 -45.72 90)
-					(length 3.81) hide
+					(at -26.67 -62.23 90)
+					(length 3.81)
 					(name "GND"
 						(effects
 							(font
@@ -1993,7 +2015,7 @@
 					)
 				)
 				(pin input line
-					(at -15.24 -5.08 0)
+					(at -95.25 10.16 0)
 					(length 3.81)
 					(name "PETp1"
 						(effects
@@ -2010,26 +2032,8 @@
 						)
 					)
 				)
-				(pin passive line
-					(at -2.54 45.72 270)
-					(length 3.81) hide
-					(name "+12V"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "B2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
 				(pin input line
-					(at -15.24 -7.62 0)
+					(at -95.25 7.62 0)
 					(length 3.81)
 					(name "PETn1"
 						(effects
@@ -2047,8 +2051,8 @@
 					)
 				)
 				(pin passive line
-					(at 0 -45.72 90)
-					(length 3.81) hide
+					(at -29.21 -62.23 90)
+					(length 3.81)
 					(name "GND"
 						(effects
 							(font
@@ -2065,8 +2069,8 @@
 					)
 				)
 				(pin passive line
-					(at 0 -45.72 90)
-					(length 3.81) hide
+					(at -31.75 -62.23 90)
+					(length 3.81)
 					(name "GND"
 						(effects
 							(font
@@ -2083,7 +2087,7 @@
 					)
 				)
 				(pin input line
-					(at -15.24 -10.16 0)
+					(at -95.25 5.08 0)
 					(length 3.81)
 					(name "PETp2"
 						(effects
@@ -2101,7 +2105,7 @@
 					)
 				)
 				(pin input line
-					(at -15.24 -12.7 0)
+					(at -95.25 2.54 0)
 					(length 3.81)
 					(name "PETn2"
 						(effects
@@ -2119,8 +2123,8 @@
 					)
 				)
 				(pin passive line
-					(at 0 -45.72 90)
-					(length 3.81) hide
+					(at -34.29 -62.23 90)
+					(length 3.81)
 					(name "GND"
 						(effects
 							(font
@@ -2137,8 +2141,8 @@
 					)
 				)
 				(pin passive line
-					(at 0 -45.72 90)
-					(length 3.81) hide
+					(at -6.35 -63.5 90)
+					(length 3.81)
 					(name "GND"
 						(effects
 							(font
@@ -2155,7 +2159,7 @@
 					)
 				)
 				(pin input line
-					(at -15.24 -15.24 0)
+					(at -95.25 0 0)
 					(length 3.81)
 					(name "PETp3"
 						(effects
@@ -2173,7 +2177,7 @@
 					)
 				)
 				(pin input line
-					(at -15.24 -17.78 0)
+					(at -95.25 -2.54 0)
 					(length 3.81)
 					(name "PETn3"
 						(effects
@@ -2191,8 +2195,8 @@
 					)
 				)
 				(pin passive line
-					(at 0 -45.72 90)
-					(length 3.81) hide
+					(at 15.24 -64.77 90)
+					(length 3.81)
 					(name "GND"
 						(effects
 							(font
@@ -2209,8 +2213,8 @@
 					)
 				)
 				(pin passive line
-					(at -2.54 45.72 270)
-					(length 3.81) hide
+					(at -11.43 68.58 270)
+					(length 3.81)
 					(name "+12V"
 						(effects
 							(font
@@ -2227,7 +2231,7 @@
 					)
 				)
 				(pin passive line
-					(at 15.24 35.56 180)
+					(at 127 3.81 180)
 					(length 3.81)
 					(name "RSVD"
 						(effects
@@ -2245,7 +2249,7 @@
 					)
 				)
 				(pin passive line
-					(at -15.24 10.16 0)
+					(at -95.25 25.4 0)
 					(length 3.81)
 					(name "~{PRSNT2}"
 						(effects
@@ -2263,8 +2267,8 @@
 					)
 				)
 				(pin passive line
-					(at 0 -45.72 90)
-					(length 3.81) hide
+					(at 21.59 -67.31 90)
+					(length 3.81)
 					(name "GND"
 						(effects
 							(font
@@ -2281,7 +2285,7 @@
 					)
 				)
 				(pin input line
-					(at -15.24 -20.32 0)
+					(at -95.25 -5.08 0)
 					(length 3.81)
 					(name "PETp4"
 						(effects
@@ -2299,7 +2303,7 @@
 					)
 				)
 				(pin input line
-					(at -15.24 -22.86 0)
+					(at -95.25 -7.62 0)
 					(length 3.81)
 					(name "PETn4"
 						(effects
@@ -2317,8 +2321,8 @@
 					)
 				)
 				(pin passive line
-					(at 0 -45.72 90)
-					(length 3.81) hide
+					(at 31.75 -67.31 90)
+					(length 3.81)
 					(name "GND"
 						(effects
 							(font
@@ -2335,8 +2339,8 @@
 					)
 				)
 				(pin passive line
-					(at 0 -45.72 90)
-					(length 3.81) hide
+					(at 44.45 -64.77 90)
+					(length 3.81)
 					(name "GND"
 						(effects
 							(font
@@ -2353,7 +2357,7 @@
 					)
 				)
 				(pin input line
-					(at -15.24 -25.4 0)
+					(at -95.25 -10.16 0)
 					(length 3.81)
 					(name "PETp5"
 						(effects
@@ -2371,7 +2375,7 @@
 					)
 				)
 				(pin input line
-					(at -15.24 -27.94 0)
+					(at -95.25 -12.7 0)
 					(length 3.81)
 					(name "PETn5"
 						(effects
@@ -2389,8 +2393,8 @@
 					)
 				)
 				(pin passive line
-					(at 0 -45.72 90)
-					(length 3.81) hide
+					(at 11.43 -68.58 90)
+					(length 3.81)
 					(name "GND"
 						(effects
 							(font
@@ -2407,7 +2411,7 @@
 					)
 				)
 				(pin power_in line
-					(at 0 -45.72 90)
+					(at 64.77 -78.74 90)
 					(length 3.81)
 					(name "GND"
 						(effects
@@ -2425,8 +2429,8 @@
 					)
 				)
 				(pin passive line
-					(at 0 -45.72 90)
-					(length 3.81) hide
+					(at -29.21 -44.45 90)
+					(length 3.81)
 					(name "GND"
 						(effects
 							(font
@@ -2443,7 +2447,7 @@
 					)
 				)
 				(pin input line
-					(at -15.24 -30.48 0)
+					(at -95.25 -15.24 0)
 					(length 3.81)
 					(name "PETp6"
 						(effects
@@ -2461,7 +2465,7 @@
 					)
 				)
 				(pin input line
-					(at -15.24 -33.02 0)
+					(at -95.25 -17.78 0)
 					(length 3.81)
 					(name "PETn6"
 						(effects
@@ -2479,8 +2483,8 @@
 					)
 				)
 				(pin passive line
-					(at 0 -45.72 90)
-					(length 3.81) hide
+					(at -26.67 -44.45 90)
+					(length 3.81)
 					(name "GND"
 						(effects
 							(font
@@ -2497,8 +2501,8 @@
 					)
 				)
 				(pin passive line
-					(at 0 -45.72 90)
-					(length 3.81) hide
+					(at 27.94 -38.1 90)
+					(length 3.81)
 					(name "GND"
 						(effects
 							(font
@@ -2515,7 +2519,7 @@
 					)
 				)
 				(pin input line
-					(at -15.24 -35.56 0)
+					(at -95.25 -20.32 0)
 					(length 3.81)
 					(name "PETp7"
 						(effects
@@ -2533,7 +2537,7 @@
 					)
 				)
 				(pin input line
-					(at -15.24 -38.1 0)
+					(at -95.25 -22.86 0)
 					(length 3.81)
 					(name "PETn7"
 						(effects
@@ -2551,8 +2555,8 @@
 					)
 				)
 				(pin passive line
-					(at 0 -45.72 90)
-					(length 3.81) hide
+					(at 36.83 -39.37 90)
+					(length 3.81)
 					(name "GND"
 						(effects
 							(font
@@ -2569,7 +2573,7 @@
 					)
 				)
 				(pin passive line
-					(at -15.24 7.62 0)
+					(at -95.25 22.86 0)
 					(length 3.81)
 					(name "~{PRSNT2}"
 						(effects
@@ -2587,8 +2591,8 @@
 					)
 				)
 				(pin passive line
-					(at 0 -45.72 90)
-					(length 3.81) hide
+					(at 41.91 -36.83 90)
+					(length 3.81)
 					(name "GND"
 						(effects
 							(font
@@ -2605,7 +2609,7 @@
 					)
 				)
 				(pin input line
-					(at -15.24 30.48 0)
+					(at -95.25 45.72 0)
 					(length 3.81)
 					(name "SMCLK"
 						(effects
@@ -2623,7 +2627,7 @@
 					)
 				)
 				(pin bidirectional line
-					(at -15.24 27.94 0)
+					(at -95.25 43.18 0)
 					(length 3.81)
 					(name "SMDAT"
 						(effects
@@ -2641,8 +2645,8 @@
 					)
 				)
 				(pin passive line
-					(at 0 -45.72 90)
-					(length 3.81) hide
+					(at 24.13 -39.37 90)
+					(length 3.81)
 					(name "GND"
 						(effects
 							(font
@@ -2659,7 +2663,7 @@
 					)
 				)
 				(pin power_in line
-					(at 2.54 45.72 270)
+					(at 10.16 69.85 270)
 					(length 3.81)
 					(name "+3.3V"
 						(effects
@@ -2677,7 +2681,7 @@
 					)
 				)
 				(pin input line
-					(at 15.24 15.24 180)
+					(at 130.81 -21.59 180)
 					(length 3.81)
 					(name "JTAG1"
 						(effects
@@ -15910,17 +15914,6 @@
 		)
 		(uuid "7e2d108d-c9ff-4821-97d7-9512399e729a")
 	)
-	(label "Transducer-"
-		(at 284.48 59.69 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "e398bc47-ab67-49ec-8ec9-9ee543e2a67c")
-	)
 	(label "ADC_CH0"
 		(at 39.37 45.72 0)
 		(fields_autoplaced yes)
@@ -16027,6 +16020,28 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Transducer-"
+		(shape input)
+		(at 284.48 59.69 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "0dfc3125-9448-4711-9cf5-25d46aa0301a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 269.5811 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -31601,7 +31616,7 @@
 		(dnp no)
 		(uuid "f99adc1a-e40c-475a-8262-d879f863dcf9")
 		(property "Reference" "J1"
-			(at 333.0859 227.33 0)
+			(at 268.3159 194.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31610,7 +31625,7 @@
 			)
 		)
 		(property "Value" "Bus_PCI_Express_x8"
-			(at 332.74 230.886 0)
+			(at 338.074 229.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31619,7 +31634,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PCBEdge:BUS_PCIexpress_x8"
-			(at 332.74 279.4 0)
+			(at 262.128 256.032 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31628,7 +31643,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ritrontek.com/uploadfile/2016/1026/20161026105231124.pdf#page=63"
-			(at 334.01 250.19 0)
+			(at 258.826 293.116 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31637,7 +31652,7 @@
 			)
 		)
 		(property "Description" "PCI Express bus connector x8"
-			(at 332.74 274.32 0)
+			(at 268.224 251.714 0)
 			(effects
 				(font
 					(size 1.27 1.27)
