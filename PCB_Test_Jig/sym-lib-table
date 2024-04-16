@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "PCIE-8 Connector")(type "KiCad")(uri "C:/Users/devin/Documents/ACDC_PCBFiles/SDII Lib/PCI_Express_Card.kicad_sym")(options "")(descr ""))
   (lib (name "3 in 1 switch")(type "KiCad")(uri "C:/Users/devin/Documents/ACDC_PCBFiles/SDII Lib/DS01C-254-L-03BE.kicad_sym")(options "")(descr ""))
+  (lib (name "Single Button")(type "KiCad")(uri "C:/Users/devin/Documents/ACDC_PCBFiles/SDII Lib/TS09-63-25-WT-260-SMT-TR.kicad_sym")(options "")(descr ""))
 )
