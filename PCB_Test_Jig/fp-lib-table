@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "SDII LIB")(type "KiCad")(uri "C:/Users/devin/Documents/ACDC_PCBFiles/SDII Lib")(options "")(descr ""))
+)
