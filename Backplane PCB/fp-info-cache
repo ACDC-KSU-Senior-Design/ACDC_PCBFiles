@@ -1,4 +1,4 @@
-23125001387270842
+23195246436012011
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -87184,6 +87184,293 @@ rotary encoder
 0
 7
 6
+SDII Lib
+1N4148WS
+
+
+0
+2
+2
+SDII Lib
+1N5819
+
+
+0
+2
+2
+SDII Lib
+22uH_IND
+
+
+0
+2
+2
+SDII Lib
+ADP7104ACPZ_R7
+
+ADP7104ACPZ-R7 
+0
+9
+9
+SDII Lib
+BP_Connector
+
+5019514000 
+0
+44
+44
+SDII Lib
+Big_Logo
+
+
+0
+0
+0
+SDII Lib
+CP_8_5_ADI
+
+ADP7104ACPZ-R7 
+0
+9
+9
+SDII Lib
+DGK8_TEX
+
+INA827AIDGKR 
+0
+8
+8
+SDII Lib
+FT231XS-R_FTD
+
+FT231XS-R 
+0
+20
+20
+SDII Lib
+GCT_USB4105-GF-A
+
+
+0
+16
+16
+SDII Lib
+IND_1210-WE-PD_WRE
+
+7447709220 
+0
+2
+2
+SDII Lib
+ISP817SM_ISO
+
+ISP817CXSM 
+0
+4
+4
+SDII Lib
+OP191
+
+OP191GSZ-REEL7 
+0
+8
+8
+SDII Lib
+PCI_Express_Card
+
+
+0
+98
+98
+SDII Lib
+POWERPAK_SO-8_SINGLE_VIS
+
+SI7850DP-T1-E3 
+0
+8
+8
+SDII Lib
+QFP50P1200X1200X160-64N
+
+
+0
+64
+64
+SDII Lib
+QFP80P1390X1390X150-44N
+
+
+0
+44
+44
+SDII Lib
+RBR1MM60ATFTR(new_VR_diode)
+
+RBR1MM60ATFTR 
+0
+2
+2
+SDII Lib
+RF201LAM2STR(new_POW_diode)
+
+RF201LAM2STR 
+0
+2
+2
+SDII Lib
+SAMTEC_FTSH-107-01-F-DV-K-P-TR
+
+
+0
+14
+14
+SDII Lib
+SAMTEC_PCIE-098-02-X-D-TH
+PCI EXPRESS CARD CONNECTOR ,64 PINS.
+
+0
+98
+98
+SDII Lib
+SMDJ6_0A
+
+SMDJ6.0A 
+0
+2
+2
+SDII Lib
+SMDJ6_0CA
+
+
+0
+2
+2
+SDII Lib
+SMDJ33A
+
+SMDJ33A 
+0
+2
+2
+SDII Lib
+SMDJ85A
+
+SMDJ85A 
+0
+2
+2
+SDII Lib
+SO-8_S_LIT
+
+LTC1451IS8-PBF 
+0
+8
+8
+SDII Lib
+SO-G8_1_MXM
+
+MAX764ESA 
+0
+8
+8
+SDII Lib
+SOD-123FL
+
+
+0
+2
+2
+SDII Lib
+SOIC-8_S
+
+
+0
+8
+8
+SDII Lib
+SOIC-18WB_HIC
+
+HI-3110PSIF 
+0
+18
+18
+SDII Lib
+SOIC8_751EB_FAS
+
+FDS4435A 
+0
+8
+8
+SDII Lib
+SOT-23-6_TEX
+
+REF3425MDBVTEP 
+0
+6
+6
+SDII Lib
+SOT23-5_STM
+
+STWD100YNXWY3F 
+0
+5
+5
+SDII Lib
+SSOP-28_G
+
+
+0
+28
+28
+SDII Lib
+SW_DS01C-254-L-03BE
+
+
+0
+6
+6
+SDII Lib
+SW_TS09-63-25-WT-260-SMT-TR
+
+
+0
+2
+2
+SDII Lib
+TSSOP20-EP_4P4X6P5_ADI
+
+LTC3894EFE-PBF 
+0
+17
+17
+SDII Lib
+VS_E5TH1506
+
+VS-E5TH1506S2L-M3 
+0
+3
+3
+SDII Lib
+XTAL_ABM3B-8.000MHZ-10-1-U-T
+
+
+0
+4
+4
+SDII Lib
+XTAL_ABM8-24.000MHz-10-B1U-T
+
+
+0
+4
+4
+SDII Lib
+pin header
+
+RS1-02-G 
+0
+2
+2
 Sensor
 ASAIR_AM2302_P2.54mm_Lead2.75mm_TabDown
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/AM2302.pdf
