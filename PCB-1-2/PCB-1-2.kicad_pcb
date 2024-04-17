@@ -19866,6 +19866,17 @@
 			(pintype "passive")
 			(uuid "7c5a178d-e799-4178-94ee-e268e5ca625e")
 		)
+		(model "../SDII Lib/DO-41_STM.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Resistor_SMD:R_0805_2012Metric"
 		(layer "F.Cu")
@@ -20884,6 +20895,17 @@
 			(pintype "power_in")
 			(solder_mask_margin 0.102)
 			(uuid "06bafac8-323a-4c20-9a89-b93774629149")
+		)
+		(model "../SDII Lib/ABM8-24.000MHz-10-B1U-T.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
 		)
 	)
 	(footprint "Capacitor_SMD:C_0603_1608Metric"

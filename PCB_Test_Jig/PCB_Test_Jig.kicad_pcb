@@ -847,6 +847,17 @@
 			(pintype "passive")
 			(uuid "c7e89a70-ba22-4ecd-86fa-0e737cc3dec1")
 		)
+		(model "../SDII Lib/DS1021_black_1x02p_100mil_Type1_rev1.0.STEP"
+			(offset
+				(xyz 2.5 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 -180)
+			)
+		)
 	)
 	(footprint "SDII LIB:pin header"
 		(layer "F.Cu")
@@ -1106,6 +1117,17 @@
 			(pintype "passive")
 			(uuid "c8afd4ac-1939-412e-adda-816394cbdd72")
 		)
+		(model "../SDII Lib/DS1021_black_1x02p_100mil_Type1_rev1.0.STEP"
+			(offset
+				(xyz 2.5 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 -180)
+			)
+		)
 	)
 	(footprint "SDII LIB:pin header"
 		(layer "F.Cu")
@@ -1364,6 +1386,17 @@
 			(pinfunction "Pin_2")
 			(pintype "passive")
 			(uuid "ee96ea83-c40a-48ff-8781-158cd9170078")
+		)
+		(model "../SDII Lib/DS1021_black_1x02p_100mil_Type1_rev1.0.STEP"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
 		)
 	)
 	(footprint "Resistor_SMD:R_0805_2012Metric"
@@ -1955,6 +1988,17 @@
 			(solder_mask_margin 0.102)
 			(uuid "394382ee-0df5-4c5d-8b01-ec04acc429bb")
 		)
+		(model "../SDII Lib/6x3mm Button.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Resistor_SMD:R_0805_2012Metric"
 		(layer "F.Cu")
@@ -2544,6 +2588,17 @@
 			(pintype "passive")
 			(solder_mask_margin 0.102)
 			(uuid "9bb46549-f4ed-45c3-aa53-e3758c4b8d6a")
+		)
+		(model "../SDII Lib/6x3mm Button.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
 		)
 	)
 	(footprint "Resistor_SMD:R_0805_2012Metric"
@@ -3246,6 +3301,17 @@
 			(pintype "passive")
 			(uuid "d1c27028-cab7-4659-b4ae-fdd3aa9e97f4")
 		)
+		(model "../SDII Lib/DS1021_black_1x02p_100mil_Type1_rev1.0.STEP"
+			(offset
+				(xyz 2.5 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 180)
+			)
+		)
 	)
 	(footprint "SDII LIB:pin header"
 		(layer "F.Cu")
@@ -3504,6 +3570,17 @@
 			(pinfunction "Pin_2")
 			(pintype "passive")
 			(uuid "f0145607-ff26-4a17-bd5c-9d758812ba49")
+		)
+		(model "../SDII Lib/DS1021_black_1x02p_100mil_Type1_rev1.0.STEP"
+			(offset
+				(xyz 2.5 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 180)
+			)
 		)
 	)
 	(footprint "LED_SMD:LED_0805_2012Metric"
@@ -4064,7 +4141,7 @@
 			(solder_mask_margin 0.102)
 			(uuid "3718ef3f-dbfb-4774-bd99-ce4ba697c1a4")
 		)
-		(model "C:/Users/devin/Documents/ACDC_PCBFiles/SDII Lib/3_in_1_Switch_418117270903.step"
+		(model "../SDII Lib/3_in_1_Switch_418117270903.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6547,7 +6624,7 @@
 			(solder_mask_margin 0.102)
 			(uuid "7866bc47-1d01-4aa4-b74e-40cd2c7d0f4c")
 		)
-		(model "C:/Users/devin/Documents/ACDC_PCBFiles/SDII Lib/3_in_1_Switch_418117270903.step"
+		(model "../SDII Lib/3_in_1_Switch_418117270903.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6937,6 +7014,17 @@
 			(pintype "passive")
 			(solder_mask_margin 0.102)
 			(uuid "75b9a3f4-b0b1-40fd-95ef-3bdd99a3f78e")
+		)
+		(model "../SDII Lib/6x3mm Button.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
 		)
 	)
 	(footprint "LED_SMD:LED_0805_2012Metric"
@@ -7428,6 +7516,17 @@
 			(pinfunction "Pin_2")
 			(pintype "passive")
 			(uuid "fb189e57-1b9c-42e9-a724-c92140fdf230")
+		)
+		(model "../SDII Lib/DS1021_black_1x02p_100mil_Type1_rev1.0.STEP"
+			(offset
+				(xyz 2.5 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 -180)
+			)
 		)
 	)
 	(footprint "LED_SMD:LED_0805_2012Metric"
@@ -8129,6 +8228,17 @@
 			(pinfunction "Pin_2")
 			(pintype "passive")
 			(uuid "5e86200b-5730-4d09-95e0-40f287fef780")
+		)
+		(model "../SDII Lib/DS1021_black_1x02p_100mil_Type1_rev1.0.STEP"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
 		)
 	)
 	(footprint "Resistor_SMD:R_0805_2012Metric"
