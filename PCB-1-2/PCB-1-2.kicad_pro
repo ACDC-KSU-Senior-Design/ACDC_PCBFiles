@@ -63,7 +63,26 @@
           "width": 0.3
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "clearance|105210499|119906400|45099b16-dd96-46e2-ab1f-8bc67a1f3ec5|e44a0b3e-2df7-4e4b-98b0-4ee3cfa26204",
+        "clearance|105210499|121887600|ae52f6d2-e0c1-41b3-97db-838ea3f06abd|e44a0b3e-2df7-4e4b-98b0-4ee3cfa26204",
+        "clearance|106210500|119906400|376ba485-4478-4911-90b1-01efbc330afa|e44a0b3e-2df7-4e4b-98b0-4ee3cfa26204",
+        "clearance|106210500|121887600|50393722-d59c-4fd3-bf15-eb1a359096a3|e44a0b3e-2df7-4e4b-98b0-4ee3cfa26204",
+        "clearance|106710501|119906400|aee81e18-b0bd-46ec-845f-c80bc271c3e0|e44a0b3e-2df7-4e4b-98b0-4ee3cfa26204",
+        "clearance|106710501|121887600|eda20c3f-641e-4226-b62f-855356347435|e44a0b3e-2df7-4e4b-98b0-4ee3cfa26204",
+        "clearance|109460498|119877244|c5f302c3-474b-42f2-aa0a-c590da207730|77cabe7e-4423-46ff-9930-088995c9cdb8",
+        "clearance|109460498|121858444|a7ea4672-29dd-4857-94e1-66cfbf97afc5|77cabe7e-4423-46ff-9930-088995c9cdb8",
+        "clearance|110460499|119877244|58cc3bb6-a988-4f2b-8305-4b06735b7eba|77cabe7e-4423-46ff-9930-088995c9cdb8",
+        "clearance|110460499|121858444|5b13b34d-9f23-44f6-8488-0e4071902369|77cabe7e-4423-46ff-9930-088995c9cdb8",
+        "clearance|110960500|119877244|595b1cf7-ce43-4d02-9fcc-fd2cdc143a97|77cabe7e-4423-46ff-9930-088995c9cdb8",
+        "clearance|110960500|121858444|2e078538-005b-4b5a-85d9-5fa7fe26accc|77cabe7e-4423-46ff-9930-088995c9cdb8",
+        "hole_clearance|69850000|64925000|3d050abc-8c6d-4ee4-8abb-64d08d5175d4|6d1fca4b-1406-4fd8-aa37-f38c965307b2",
+        "hole_clearance|70050000|64925000|3d050abc-8c6d-4ee4-8abb-64d08d5175d4|52bab2f5-6898-4a11-846b-ab1a7931db47",
+        "hole_clearance|75450000|64925000|d1cebeb9-fed4-47cd-b0f4-531f07f3d69a|8c3e0f3f-b1bb-4439-90c0-57dea1c4a2ae",
+        "hole_clearance|75650000|64925000|d1cebeb9-fed4-47cd-b0f4-531f07f3d69a|7044e90e-2c78-4337-896e-41402bd34132",
+        "unconnected_items|114000000|131000000|b7fa2bbf-dc3d-4822-a93e-768338558614|62a241b7-b6c4-4ec3-b7f3-8cd9728bb4f2",
+        "unconnected_items|116000000|131000000|62a241b7-b6c4-4ec3-b7f3-8cd9728bb4f2|fafff5b9-d89c-4186-b81e-ac031a9bc69d"
+      ],
       "meta": {
         "version": 2
       },

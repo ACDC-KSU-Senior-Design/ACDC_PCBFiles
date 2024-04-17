@@ -47,7 +47,7 @@
 			(disableapertmacros no)
 			(usegerberextensions no)
 			(usegerberattributes yes)
-			(usegerberadvancedattributes yes)
+			(usegerberadvancedattributes no)
 			(creategerberjobfile yes)
 			(dashed_line_dash_ratio 12.000000)
 			(dashed_line_gap_ratio 3.000000)
@@ -74,9 +74,9 @@
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "Files for Production/Gerbers/")
 		)
 	)
 	(net 0 "")
@@ -375,7 +375,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 0.1875 -1.5 270)
+			(at 0.1875 -1.5 -90)
 			(layer "F.Fab")
 			(uuid "8d2cd924-7d06-4fa2-ac2e-ad2b7049042c")
 			(effects
@@ -547,7 +547,7 @@
 			(uuid "cb9ca008-55a3-492d-b762-ad931c8afc5d")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(layer "F.Fab")
 			(uuid "3efca8ad-14de-4ab9-8f41-168ef4722a3d")
 			(effects
@@ -1592,7 +1592,7 @@
 			)
 		)
 		(property "Value" "TS09-63-25-WT-260-SMT-TR"
-			(at 0.25 9 270)
+			(at 0.25 9 -90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "42206681-fa66-447a-a48e-0e8575082e37")
@@ -2182,7 +2182,7 @@
 			)
 		)
 		(property "Value" "TS09-63-25-WT-260-SMT-TR"
-			(at 14.045 3.335 270)
+			(at 14.045 3.335 -90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "0c2811a4-cba4-4a3e-8cdb-9d62795c49c5")
@@ -2774,7 +2774,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at -0.075 -1.5 270)
+			(at -0.075 -1.5 -90)
 			(layer "F.Fab")
 			(uuid "40f4c397-8ebe-4d8e-925a-bb15d624a732")
 			(effects
@@ -2946,7 +2946,7 @@
 			(uuid "594a2bdb-8b20-4b6d-8f7c-711eb9acf1c8")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(layer "F.Fab")
 			(uuid "4d9197e1-2889-4b41-9763-e2296ace28cb")
 			(effects
@@ -3524,7 +3524,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 0.1875 -1.5 270)
+			(at 0.1875 -1.5 -90)
 			(layer "F.Fab")
 			(uuid "7e24c414-3543-441d-b844-af61ac476cfc")
 			(effects
@@ -3696,7 +3696,7 @@
 			(uuid "bd292c45-15fd-4b2d-9720-dfe55cb10143")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(layer "F.Fab")
 			(uuid "ea2d1a64-9f76-433d-bcda-98ee3a4560cb")
 			(effects
@@ -4291,7 +4291,7 @@
 		(uuid "c03bdff8-0c4d-48f6-99aa-b29195a82e00")
 		(at 58.15 43.25)
 		(property "Reference" "J1"
-			(at -6.39 -6.58 360)
+			(at -6.39 -6.58 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "b906434f-9312-4685-a467-918d4c99a5f5")
@@ -4303,7 +4303,7 @@
 			)
 		)
 		(property "Value" "10018783-10202TLF"
-			(at 1.905 6.35 360)
+			(at 1.905 6.35 0)
 			(layer "F.Fab")
 			(uuid "3f7b7645-29c1-4eca-b4e3-b418de8d6440")
 			(effects
@@ -6007,7 +6007,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 0 -1.5 270)
+			(at 0 -1.5 -90)
 			(layer "F.Fab")
 			(uuid "1936dd31-f238-4183-b4b3-0fe97d944264")
 			(effects
@@ -6179,7 +6179,7 @@
 			(uuid "f758e70e-3745-4662-8e9a-99b5e7988f5e")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(layer "F.Fab")
 			(uuid "1f144167-6e04-454d-9e28-c08a80663705")
 			(effects
@@ -6575,7 +6575,7 @@
 			)
 		)
 		(property "Value" "TS09-63-25-WT-260-SMT-TR"
-			(at 14.045 3.335 270)
+			(at 14.045 3.335 -90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "8c2c0a7f-3c76-46b2-8b00-96f9c631d6fb")
@@ -6957,7 +6957,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at -0.0625 -1.5 270)
+			(at -0.0625 -1.5 -90)
 			(layer "F.Fab")
 			(uuid "342caaeb-7926-4c51-9cc5-ccc3c0b91b0c")
 			(effects
@@ -7129,7 +7129,7 @@
 			(uuid "bd3f46eb-6d81-46ff-9910-62062e43f71f")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(layer "F.Fab")
 			(uuid "5ec831e9-7677-4e7d-b364-bff09036f64b")
 			(effects
@@ -7448,7 +7448,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 0.1875 -1.5 270)
+			(at 0.1875 -1.5 -90)
 			(layer "F.Fab")
 			(uuid "93ce62aa-e95b-4445-a9f1-cb0e4d619966")
 			(effects
@@ -7620,7 +7620,7 @@
 			(uuid "fedd8108-c849-4d58-8a5c-b59faaed5b0a")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(layer "F.Fab")
 			(uuid "47f58202-8845-43df-9df7-882629a63695")
 			(effects
