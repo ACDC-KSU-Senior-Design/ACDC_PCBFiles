@@ -1432,7 +1432,7 @@
 			(pintype "unspecified")
 			(uuid "d7ebdcd3-d758-4a21-bc47-c8b299a9e94c")
 		)
-		(model "${KIPRJMOD}/SDII Lib/LTV-816S_LTO.step"
+		(model "${KIPRJMOD}/../SDII Lib/LTV-816S_LTO.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2350,7 +2350,7 @@
 			(solder_mask_margin 0.102)
 			(uuid "05f8f153-9364-42da-944e-8d99063fe659")
 		)
-		(model "${KIPRJMOD}/SDII Lib/SMDJ60CA.step"
+		(model "${KIPRJMOD}/../SDII Lib/SMDJ60CA.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -3357,7 +3357,7 @@
 			(pintype "unspecified")
 			(uuid "e85ebff0-d547-48db-8f2d-f7abb48e25aa")
 		)
-		(model "${KIPRJMOD}/SDII Lib/LTV-816S_LTO.step"
+		(model "${KIPRJMOD}/../SDII Lib/LTV-816S_LTO.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4583,7 +4583,7 @@
 				)
 			)
 		)
-		(model "${KIPRJMOD}/SDII Lib/SMDJ60A.step"
+		(model "${KIPRJMOD}/../SDII Lib/SMDJ60A.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -5081,7 +5081,7 @@
 			(solder_mask_margin 0.102)
 			(uuid "e7ecd952-5146-4178-9f20-cc6ed66bff23")
 		)
-		(model "${KIPRJMOD}/SDII Lib/SMDJ60CA.step"
+		(model "${KIPRJMOD}/../SDII Lib/SMDJ60CA.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -7270,7 +7270,7 @@
 			(pintype "unspecified")
 			(uuid "64454f3e-49b4-4182-9763-bc635a734f5f")
 		)
-		(model "${KIPRJMOD}/SDII Lib/LTV-816S_LTO.step"
+		(model "${KIPRJMOD}/../SDII Lib/LTV-816S_LTO.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -9397,7 +9397,7 @@
 			(solder_mask_margin 0.102)
 			(uuid "a245a0ec-5dff-4434-9785-772abcc1e2ea")
 		)
-		(model "${KIPRJMOD}/SDII Lib/10018783-10202TLF(PCIE).step"
+		(model "${KIPRJMOD}/../SDII Lib/10018783-10202TLF(PCIE).step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -10071,7 +10071,7 @@
 				)
 			)
 		)
-		(model "${KIPRJMOD}/SDII Lib/SMDJ33A.step"
+		(model "${KIPRJMOD}/../SDII Lib/SMDJ33A.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -13151,7 +13151,7 @@
 				)
 			)
 		)
-		(model "${KIPRJMOD}/SDII Lib/RB051MM_ROM.step"
+		(model "${KIPRJMOD}/../SDII Lib/RB051MM_ROM.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -14455,7 +14455,7 @@
 				)
 			)
 		)
-		(model "${KIPRJMOD}/SDII Lib/SMDJ33A.step"
+		(model "${KIPRJMOD}/../SDII Lib/SMDJ33A.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -14743,7 +14743,7 @@
 			(solder_mask_margin 0.102)
 			(uuid "91fa04a3-bbe9-40f7-8a31-9ab7bfdb4bd8")
 		)
-		(model "${KIPRJMOD}/SDII Lib/SMDJ60CA.step"
+		(model "${KIPRJMOD}/../SDII Lib/SMDJ60CA.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -16846,7 +16846,7 @@
 			(solder_mask_margin 0.102)
 			(uuid "15d8f96e-e419-407c-a870-5903d678dc13")
 		)
-		(model "${KIPRJMOD}/SDII Lib/10018783-10202TLF(PCIE).step"
+		(model "${KIPRJMOD}/../SDII Lib/10018783-10202TLF(PCIE).step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -17940,7 +17940,7 @@
 				)
 			)
 		)
-		(model "${KIPRJMOD}/SDII Lib/SMDJ60A.step"
+		(model "${KIPRJMOD}/../SDII Lib/SMDJ60A.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -19648,7 +19648,7 @@
 			(solder_mask_margin 0.102)
 			(uuid "56451bfa-7eac-4f50-80f9-6b07e90a2e04")
 		)
-		(model "${KIPRJMOD}/SDII Lib/10018783-10202TLF(PCIE).step"
+		(model "${KIPRJMOD}/../SDII Lib/10018783-10202TLF(PCIE).step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -20765,7 +20765,7 @@
 			(pintype "unspecified")
 			(uuid "ec5cca68-a9cf-4393-85fc-b90e72451b92")
 		)
-		(model "${KIPRJMOD}/SDII Lib/LTV-816S_LTO.step"
+		(model "${KIPRJMOD}/../SDII Lib/LTV-816S_LTO.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -23213,7 +23213,7 @@
 			(solder_mask_margin 0.102)
 			(uuid "f876b96d-b0f2-4cae-824f-bbfd07ba5b84")
 		)
-		(model "${KIPRJMOD}/SDII Lib/10018783-10202TLF(PCIE).step"
+		(model "${KIPRJMOD}/../SDII Lib/10018783-10202TLF(PCIE).step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -24099,7 +24099,7 @@
 				)
 			)
 		)
-		(model "${KIPRJMOD}/SDII Lib/RB051MM_ROM.step"
+		(model "${KIPRJMOD}/../SDII Lib/RB051MM_ROM.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -24997,7 +24997,7 @@
 			(pintype "unspecified")
 			(uuid "4c780bfb-ef14-4c4e-b474-66c5bf66c97e")
 		)
-		(model "${KIPRJMOD}/SDII Lib/SOIC8_751EB_FAS.step"
+		(model "${KIPRJMOD}/../SDII Lib/SOIC8_751EB_FAS.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -25729,7 +25729,7 @@
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(uuid "7637dc51-28ce-40aa-8433-a6582c37e9ac")
 		)
-		(model "${KIPRJMOD}/SDII Lib/5019514000.stp"
+		(model "${KIPRJMOD}/../SDII Lib/5019514000.stp"
 			(offset
 				(xyz 0 0 0.5)
 			)
@@ -28304,7 +28304,7 @@
 			(pintype "unspecified")
 			(uuid "02d0c23b-b896-4719-9c63-53def727cc7d")
 		)
-		(model "${KIPRJMOD}/SDII Lib/LTV-816S_LTO.step"
+		(model "${KIPRJMOD}/../SDII Lib/LTV-816S_LTO.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -29510,7 +29510,7 @@
 				)
 			)
 		)
-		(model "${KIPRJMOD}/SDII Lib/RB051MM_ROM.step"
+		(model "${KIPRJMOD}/../SDII Lib/RB051MM_ROM.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -31190,7 +31190,7 @@
 			(pintype "unspecified")
 			(uuid "6283c3ec-5073-4c2e-a8c2-5083511b97e4")
 		)
-		(model "${KIPRJMOD}/SDII Lib/LTC3894EFE#PBF.step"
+		(model "${KIPRJMOD}/../SDII Lib/LTC3894EFE#PBF.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -32074,7 +32074,7 @@
 				)
 			)
 		)
-		(model "${KIPRJMOD}/SDII Lib/SMDJ33A.step"
+		(model "${KIPRJMOD}/../SDII Lib/SMDJ33A.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -32748,7 +32748,7 @@
 				)
 			)
 		)
-		(model "${KIPRJMOD}/SDII Lib/SMDJ33A.step"
+		(model "${KIPRJMOD}/../SDII Lib/SMDJ33A.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -33634,7 +33634,7 @@
 				)
 			)
 		)
-		(model "${KIPRJMOD}/SDII Lib/RB051MM_ROM.step"
+		(model "${KIPRJMOD}/../SDII Lib/RB051MM_ROM.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -35602,7 +35602,7 @@
 				)
 			)
 		)
-		(model "${KIPRJMOD}/SDII Lib/RB051MM_ROM.step"
+		(model "${KIPRJMOD}/../SDII Lib/RB051MM_ROM.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -40810,7 +40810,7 @@
 			(pintype "passive")
 			(uuid "f5450b40-61ea-4184-8ea2-108d1a47d718")
 		)
-		(model "${KIPRJMOD}/SDII Lib/7447709001_Download_WE-PD_1210_STP_rev1.stp"
+		(model "${KIPRJMOD}/../SDII Lib/7447709001_Download_WE-PD_1210_STP_rev1.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -41607,7 +41607,7 @@
 			(pintype "unspecified")
 			(uuid "4807d164-4d3a-4f03-b6be-19a0fd0f44a5")
 		)
-		(model "${KIPRJMOD}/SDII Lib/LTV-816S_LTO.step"
+		(model "${KIPRJMOD}/../SDII Lib/LTV-816S_LTO.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -42491,7 +42491,7 @@
 				)
 			)
 		)
-		(model "${KIPRJMOD}/SDII Lib/SMDJ33A.step"
+		(model "${KIPRJMOD}/../SDII Lib/SMDJ33A.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -43165,7 +43165,7 @@
 				)
 			)
 		)
-		(model "${KIPRJMOD}/SDII Lib/SMDJ60A.step"
+		(model "${KIPRJMOD}/../SDII Lib/SMDJ60A.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -44715,7 +44715,7 @@
 			(solder_mask_margin 0.102)
 			(uuid "a9bbf84b-3388-4356-ad9f-192def1dcfbd")
 		)
-		(model "${KIPRJMOD}/SDII Lib/SMDJ60CA.step"
+		(model "${KIPRJMOD}/../SDII Lib/SMDJ60CA.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -45132,7 +45132,7 @@
 			(pintype "unspecified")
 			(uuid "c4d2d7db-1df4-4752-9b33-b90630ee7f4f")
 		)
-		(model "${KIPRJMOD}/SDII Lib/CP_8_5_ADI.step"
+		(model "${KIPRJMOD}/../SDII Lib/CP_8_5_ADI.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -45806,7 +45806,7 @@
 				)
 			)
 		)
-		(model "${KIPRJMOD}/SDII Lib/SMDJ60A.step"
+		(model "${KIPRJMOD}/../SDII Lib/SMDJ60A.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -47386,7 +47386,7 @@
 				)
 			)
 		)
-		(model "${KIPRJMOD}/SDII Lib/SMDJ60A.step"
+		(model "${KIPRJMOD}/../SDII Lib/SMDJ60A.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -48272,7 +48272,7 @@
 				)
 			)
 		)
-		(model "${KIPRJMOD}/SDII Lib/RB051MM_ROM.step"
+		(model "${KIPRJMOD}/../SDII Lib/RB051MM_ROM.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -48946,7 +48946,7 @@
 				)
 			)
 		)
-		(model "${KIPRJMOD}/SDII Lib/SMDJ33A.step"
+		(model "${KIPRJMOD}/../SDII Lib/SMDJ33A.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -49363,7 +49363,7 @@
 			(pintype "unspecified")
 			(uuid "cd8faab5-716c-402d-a961-ade3d1183ddf")
 		)
-		(model "${KIPRJMOD}/SDII Lib/CP_8_5_ADI.step"
+		(model "${KIPRJMOD}/../SDII Lib/CP_8_5_ADI.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -50380,7 +50380,7 @@
 			(pintype "unspecified")
 			(uuid "a3197498-bfe2-4e52-a6c8-4999a8affae2")
 		)
-		(model "${KIPRJMOD}/SDII Lib/LTV-816S_LTO.step"
+		(model "${KIPRJMOD}/../SDII Lib/LTV-816S_LTO.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -51109,7 +51109,7 @@
 			(solder_mask_margin 0.102)
 			(uuid "f37c16ed-0315-4e9b-a7b2-7047453055c8")
 		)
-		(model "${KIPRJMOD}/SDII Lib/SMDJ60CA.step"
+		(model "${KIPRJMOD}/../SDII Lib/SMDJ60CA.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -52744,7 +52744,7 @@
 			(pintype "unspecified")
 			(uuid "a31b7520-9369-4651-b32f-8f3d8ca4d8a6")
 		)
-		(model "${KIPRJMOD}/SDII Lib/OP191GSZ-REEL7.step"
+		(model "${KIPRJMOD}/../SDII Lib/OP191GSZ-REEL7.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -54027,7 +54027,7 @@
 			(pintype "unspecified")
 			(uuid "f9b4457d-7f22-44f9-a78c-e8391072c763")
 		)
-		(model "${KIPRJMOD}/SDII Lib/LTV-816S_LTO.step"
+		(model "${KIPRJMOD}/../SDII Lib/LTV-816S_LTO.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -56310,7 +56310,7 @@
 			(pintype "unspecified")
 			(uuid "9705cc8f-2836-49cb-a576-2e0e5b4823c0")
 		)
-		(model "${KIPRJMOD}/SDII Lib/OP191GSZ-REEL7.step"
+		(model "${KIPRJMOD}/../SDII Lib/OP191GSZ-REEL7.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -57422,7 +57422,7 @@
 				)
 			)
 		)
-		(model "${KIPRJMOD}/SDII Lib/SMDJ33A.step"
+		(model "${KIPRJMOD}/../SDII Lib/SMDJ33A.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -58879,7 +58879,7 @@
 			(pintype "unspecified")
 			(uuid "3b92f892-344a-4c3e-b7c4-15430bdd9e2b")
 		)
-		(model "${KIPRJMOD}/SDII Lib/OP191GSZ-REEL7.step"
+		(model "${KIPRJMOD}/../SDII Lib/OP191GSZ-REEL7.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -59991,7 +59991,7 @@
 				)
 			)
 		)
-		(model "${KIPRJMOD}/SDII Lib/SMDJ33A.step"
+		(model "${KIPRJMOD}/../SDII Lib/SMDJ33A.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -61372,7 +61372,7 @@
 			(pintype "unspecified")
 			(uuid "320e428b-aa13-4bf8-b03c-e2b2a506e66f")
 		)
-		(model "${KIPRJMOD}/SDII Lib/OP191GSZ-REEL7.step"
+		(model "${KIPRJMOD}/../SDII Lib/OP191GSZ-REEL7.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -62052,7 +62052,7 @@
 				)
 			)
 		)
-		(model "${KIPRJMOD}/SDII Lib/SMDJ33A.step"
+		(model "${KIPRJMOD}/../SDII Lib/SMDJ33A.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -62998,7 +62998,7 @@
 				)
 			)
 		)
-		(model "${KIPRJMOD}/SDII Lib/RB051MM_ROM.step"
+		(model "${KIPRJMOD}/../SDII Lib/RB051MM_ROM.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -63690,7 +63690,7 @@
 				)
 			)
 		)
-		(model "${KIPRJMOD}/SDII Lib/RB051MM_ROM.step"
+		(model "${KIPRJMOD}/../SDII Lib/RB051MM_ROM.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -64802,7 +64802,7 @@
 				)
 			)
 		)
-		(model "${KIPRJMOD}/SDII Lib/SMDJ85A.step"
+		(model "${KIPRJMOD}/../SDII Lib/SMDJ85A.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -65099,7 +65099,7 @@
 			(solder_mask_margin 0.102)
 			(uuid "f6f99f14-c70e-48e0-a4e1-b6b39b8a0875")
 		)
-		(model "${KIPRJMOD}/SDII Lib/SMDJ60CA.step"
+		(model "${KIPRJMOD}/../SDII Lib/SMDJ60CA.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -65779,7 +65779,7 @@
 				)
 			)
 		)
-		(model "${KIPRJMOD}/SDII Lib/SMDJ33A.step"
+		(model "${KIPRJMOD}/../SDII Lib/SMDJ33A.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -66630,7 +66630,7 @@
 			(pintype "unspecified")
 			(uuid "36ef64f4-41a1-4ecb-8881-9c8a3cdb3f24")
 		)
-		(model "${KIPRJMOD}/SDII Lib/LTV-816S_LTO.step"
+		(model "${KIPRJMOD}/../SDII Lib/LTV-816S_LTO.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -68227,7 +68227,7 @@
 			(pintype "unspecified")
 			(uuid "45f5508b-9fcc-492f-838c-888517fe7b5f")
 		)
-		(model "${KIPRJMOD}/SDII Lib/OP191GSZ-REEL7.step"
+		(model "${KIPRJMOD}/../SDII Lib/OP191GSZ-REEL7.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -70685,7 +70685,7 @@
 				)
 			)
 		)
-		(model "${KIPRJMOD}/SDII Lib/RB051MM_ROM.step"
+		(model "${KIPRJMOD}/../SDII Lib/RB051MM_ROM.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -71282,7 +71282,7 @@
 			(pintype "unspecified")
 			(uuid "7897147e-87f6-4b4d-805a-a5c02853094f")
 		)
-		(model "${KIPRJMOD}/SDII Lib/LTV-816S_LTO.step"
+		(model "${KIPRJMOD}/../SDII Lib/LTV-816S_LTO.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -72394,7 +72394,7 @@
 				)
 			)
 		)
-		(model "${KIPRJMOD}/SDII Lib/SMDJ33A.step"
+		(model "${KIPRJMOD}/../SDII Lib/SMDJ33A.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -73086,7 +73086,7 @@
 				)
 			)
 		)
-		(model "${KIPRJMOD}/SDII Lib/RB051MM_ROM.step"
+		(model "${KIPRJMOD}/../SDII Lib/RB051MM_ROM.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -73982,7 +73982,7 @@
 				)
 			)
 		)
-		(model "${KIPRJMOD}/SDII Lib/SMDJ33A.step"
+		(model "${KIPRJMOD}/../SDII Lib/SMDJ33A.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -74674,7 +74674,7 @@
 				)
 			)
 		)
-		(model "${KIPRJMOD}/SDII Lib/RB051MM_ROM.step"
+		(model "${KIPRJMOD}/../SDII Lib/RB051MM_ROM.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -76173,7 +76173,7 @@
 			(pintype "unspecified")
 			(uuid "965ecb1a-8132-4fcb-b0c5-a6db210bf085")
 		)
-		(model "${KIPRJMOD}/SDII Lib/LTV-816S_LTO.step"
+		(model "${KIPRJMOD}/../SDII Lib/LTV-816S_LTO.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -77672,7 +77672,7 @@
 			(pintype "unspecified")
 			(uuid "4eb41f28-25a6-4567-8a50-ce720791dc0e")
 		)
-		(model "${KIPRJMOD}/SDII Lib/LTV-816S_LTO.step"
+		(model "${KIPRJMOD}/../SDII Lib/LTV-816S_LTO.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -78580,7 +78580,7 @@
 				)
 			)
 		)
-		(model "${KIPRJMOD}/SDII Lib/RB051MM_ROM.step"
+		(model "${KIPRJMOD}/../SDII Lib/RB051MM_ROM.step"
 			(offset
 				(xyz 0 0 0)
 			)
