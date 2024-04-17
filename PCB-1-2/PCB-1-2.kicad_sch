@@ -32548,7 +32548,7 @@
 				)
 			)
 		)
-		(property "Value" "5.5k"
+		(property "Value" "5.6k"
 			(at 553.72 84.328 90)
 			(effects
 				(font
@@ -33889,7 +33889,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
+		(property "Footprint" "Inductor_SMD:L_0805_2012Metric"
 			(at 347.98 167.64 0)
 			(effects
 				(font
