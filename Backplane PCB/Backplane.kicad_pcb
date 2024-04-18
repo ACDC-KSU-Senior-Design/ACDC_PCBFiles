@@ -20994,7 +20994,7 @@
 		(descr "Mounting Hole 3.2mm, no annular, M3")
 		(tags "mounting hole 3.2mm no annular m3")
 		(property "Reference" "H7"
-			(at 0 -4.2 0)
+			(at 0 4.5 0)
 			(layer "F.SilkS")
 			(uuid "66fbcf11-572d-478b-87e1-50f5b47e18e7")
 			(effects
